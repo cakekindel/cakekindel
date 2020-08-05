@@ -3,9 +3,8 @@
 ## Who I am
 ### Intro
 I am a software engineer, based in Arizona!
-I love ramen,
-taking landscape photos of beautiful places,
-and raising houseplants.
+I love ramen, taking landscape photos of beautiful places,
+rock climbing, and raising houseplants.
 
 ### Values
 I am all about creating software that is:
@@ -20,14 +19,13 @@ and UI that is:
  - correct
  - thoroughly tested
 
-## What I'm Working on
- - [`vermilion`] - A new way to do cross-platform UI
- - [`@matchbook/ts`] - Pattern matching made
-       dead easy for Javascript and Typescript
- - [`slack-blocks-rs`] - Slack's Block Kit JSON
-       structures, brought to Rust
- - [`egg-party`] - A Slack app for giving eggs to teammates
+## Project's I'm Working on
+ - [`swc/typechecker`] - Porting the Typescript compiler to Rust
+ - [`@matchbook/ts`] - Pattern matching made dead easy for Javascript and Typescript
+ - [`slack-blocks-rs`] - Slack's Block Kit JSON structures, brought to Rust
+ - [`egg-party`] (On hold) - A Slack app for giving eggs to teammates
 
+[`swc/typechecker`]: https://github.com/divy-beta/swc-typechecker
 [`vermilion`]: https://github.com/vermilion-ui
 [`@matchbook/ts`]: https://github.com/matchbook-ts/matchbook-ts
 [`egg-party`]: https://github.com/cakekindel/egg-party
