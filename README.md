@@ -11,13 +11,13 @@ I am all about creating software that is:
  - robust
  - correct
  - predictable
- - thoroughly tested
+ - tested
 
 and UI that is:
  - robust
- - predictable
  - correct
- - thoroughly tested
+ - predictable
+ - tested
 
 ## Projects I'm Working on
  - [`swc/typechecker`] - Porting the Typescript compiler to Rust
