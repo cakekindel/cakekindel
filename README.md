@@ -1,10 +1,7 @@
 # Orion Kindel
 
 ## Who I am
-### Intro
-I am a software engineer, based in Arizona!
-I love ramen, taking landscape photos of beautiful places,
-rock climbing, and raising houseplants.
+### [Check out my website!](https://www.orionkindel.com)
 
 ### Values
 I am all about creating software that is:
