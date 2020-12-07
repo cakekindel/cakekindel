@@ -19,21 +19,20 @@ and UI that is:
 ### Experience
 Definitions:
 - "Confidence"
-    - Because none of these factors are truly binary, I threw a 1-10 score of roughly how comfortable I would be
-      in an environment with this tool, and how confident I am I would be able to train others less experienced, or learn from others more experienced.
+    - _Because none of these factors are truly binary, I threw a 1-10 score of roughly how comfortable I would be in an environment with this tool, and how confident I am I would be able to train others less experienced, or learn from others more experienced._
 - "Familiar with"
-    - I have researched this tool enough to have a high-level understanding of its semantics and best practices.
+    - _I have researched this tool enough to have a high-level understanding of its semantics and best practices._
 - "Have Used"
-    - I have tinkered with this tool, or used it to solve a problem of some difficulty, and have a slightly deeper-than-high-level understanding of it. This usually also means I can effectively communicate the pros and cons of the tool with other engineers & stakeholders.
+    - _I have used this tool to solve a problem of some difficulty, and have a somewhat lower-level understanding of it. This usually also means I can effectively communicate the pros and cons of the tool with other engineers & stakeholders._
 - "Could learn from another Engineer"
-    - I do not have a 100% understanding of this tool, and in a position with other engineers (of any experience), I would have something to learn from them.
+    - _I do not have a 100% understanding of this tool, and in a position with other engineers (of any experience), I would have something to learn from them._
 - "Could teach another Engineer"
-    - I would be effective in a mentor role with this tool with less experienced engineers, where they would be able to get up to speed and effective with the tool quickly.
+    - _I would be effective in a mentor role with this tool with less experienced engineers, where they would be able to get up to speed and effective with the tool quickly._
 - "Could lead a team of Engineers unfamiliar with tool"
-    - I would be effective in a lead developer role with this tool: working with team members to establish patterns and guidelines, spearheading a greenfield project with this tool, and effectively training new engineers.
+    - _I would be effective in a lead developer role with this tool: working with team members to establish patterns and guidelines, spearheading a greenfield project with this tool, and effectively training new engineers._
 
 |Tool|Confidence (1-10)|Familiar with|Have Used|Could learn from another Engineer|Could teach another Engineer|Could lead a team of Engineers unfamiliar with tool|
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |Rust               | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |C#                 | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |TypeScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
