@@ -16,6 +16,33 @@ and UI that is:
  - predictable
  - tested
 
+### Experience
+Definitions:
+- "Familiar" (have used minimally, familiar enough to get up to speed quickly, but not much direct experience)
+- "Adept" (have used, familiar with language specifics, would be able to teach another engineer)
+- "Expert" (would be able to lead a team unfamiliar with the language)
+
+|Tool|Confidence (1-10)|Familiar with|Have Used|Could teach another Engineer|Could lead a team of Engineers unfamiliar with tool|
+|-|-|-|-|-|-|
+|Rust               | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|C#                 | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|TypeScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|JavaScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|TypeScript (FP)    | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|JavaScript (FP)    | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|SQL                | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|MS Azure           | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|AWS                | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|Haskell            | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|PureScript         | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|ReScript / ReasonML| 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|NoSQL              | 6 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|OCaml              | 6 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|Elm                | 6 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|F#                 | 5 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
+|Scala              | 4 |:heavy_check_mark:|:heavy_check_mark:|                  |                  |
+
+
 ## Projects I'm Working on
  - [`swc/typechecker`] - Porting the Typescript compiler to Rust
  - [`@matchbook/ts`] - Pattern matching made dead easy for Javascript and Typescript
