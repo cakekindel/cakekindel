@@ -34,6 +34,7 @@ Definitions:
 |Tool|Confidence (1-10)|Familiar with|Have Used|Could learn from another Engineer|Could teach another Engineer|Could lead a team of Engineers unfamiliar with tool|
 |-|-|-|-|-|-|-|
 |Rust               | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Git                | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |C#                 | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |TypeScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |JavaScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
