@@ -15,7 +15,7 @@ and UI that is:
  - correct
  - predictable
  - tested
-
+<!--
 ### Experience
 Definitions:
 - "Confidence"
@@ -55,16 +55,18 @@ Definitions:
 |F#                 | 5 |:heavy_check_mark:|                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 |Ruby               | 5 |:heavy_check_mark:|                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 |Scala              | 4 |:heavy_check_mark:|                  |:heavy_check_mark:|                  |                  |
-
+-->
 
 ## Projects I'm Working on
- - [`swc/typechecker`] - Porting the Typescript compiler to Rust
+ - [`cliply`] - fully client-side video editor in the browser (big lift, contributors welcome!)
  - [`@matchbook/ts`] - Pattern matching made dead easy for Javascript and Typescript
  - [`slack-blocks-rs`] - Slack's Block Kit JSON structures, brought to Rust
  - [`egg-party`] (On hold) - A Slack app for giving eggs to teammates
+ - [`swc/typechecker`] - Porting the Typescript compiler to Rust
  - [`rustlang/rust`] (_Would like to, but haven't yet_) - A systems programming language for the next 20 years
  - [`denoland/deno`] (_Would like to, but haven't yet_) - A Javascript runtime for the next 20 years
 
+[`cliply`]: https://github.com/cakekindel/cliply
 [`rustlang/rust`]: https://github.com/rustlang/rust
 [`denoland/deno`]: https://github.com/denoland/deno
 [`swc/typechecker`]: https://github.com/divy-beta/swc-typechecker
