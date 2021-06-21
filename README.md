@@ -3,8 +3,8 @@
 
 ## Who Am I?
 
-|[orionkindel.com](orionkindel.com)|[LinkedIn](linkedin.com/in/orion-kindel)|[Slack](https://app.slack.com/client/T03GE5TRT/D025JSMQ8GJ/user_profile/U025K37CAGK)|[GitHub](https://github.com/cakekindel)|[Medium](https://orionkindel.medium.com/)|
-|-|-|-|-|-|
+|[orionkindel.com](orionkindel.com)|[LinkedIn](linkedin.com/in/orion-kindel)|[GitHub](https://github.com/cakekindel)|[Medium](https://orionkindel.medium.com/)|
+|-|-|-|-|
 
 I'm a fun-loving quality-focused software engineer based in Arizona (for now :smirk:)
 
@@ -42,10 +42,10 @@ There is a time and a place for a "go-to" or "de-facto" solution, but it's criti
 As someone who goes a bit against the grain and lives on the bleeding edge of the engineering field, it's important to me to share what I'm passionate about with people who love to learn. This is how history is made, by changing 1 mind at a time.
 
 ## Projects I'm Working on
- - [`cliply`] - fully client-side video editor in the browser (big lift, contributors welcome!)
+ <!-- - [`cliply`] - fully client-side video editor in the browser (big lift, contributors welcome!) -->
  - [`@matchbook/ts`] - Pattern matching made dead easy for Javascript and Typescript
  - [`slack-blocks-rs`] - Slack's Block Kit JSON structures, brought to Rust
- - [`egg-party`] (On hold) - A Slack app for giving eggs to teammates
+ <!-- - [`egg-party`] (On hold) - A Slack app for giving eggs to teammates -->
  - [`swc/typechecker`] - Porting the Typescript compiler to Rust
  - [`rustlang/rust`] (_Would like to, but haven't yet_) - A systems programming language for the next 20 years
  - [`denoland/deno`] (_Would like to, but haven't yet_) - A Javascript runtime for the next 20 years
