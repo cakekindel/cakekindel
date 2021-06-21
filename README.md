@@ -1,61 +1,45 @@
 # Orion Kindel
+![unnamed](https://user-images.githubusercontent.com/12725400/122816304-67482300-d28b-11eb-997e-1e2ca66febae.gif)
 
-## Who I am
-### [Check out my website!](https://www.orionkindel.com)
+## Who Am I?
+
+|[orionkindel.com](orionkindel.com)|[LinkedIn](linkedin.com/in/orion-kindel)|[Slack](https://app.slack.com/client/T03GE5TRT/D025JSMQ8GJ/user_profile/U025K37CAGK)|[GitHub](https://github.com/cakekindel)|[Medium](https://orionkindel.medium.com/)|
+|-|-|-|-|-|
+
+I'm a fun-loving quality-focused software engineer based in Arizona (for now :smirk:)
+
+I am always learning something new and looking for opportunities to share those new things with others! 
 
 ### Values
-I am all about creating software that is:
- - robust
- - correct
- - predictable
- - tested
+- strike a balance between quality and delivery
+  - _let's invest 30min now to prevent a 2hr headache 2 weeks from now_
+- always moving
+  - _growth-mindset_
+- technical conciseness
+  - _say what you mean and no more; boilerplate is the death of delivery_
+- unix philosophy
+  - _give me the timber and hardware, and soon you'll have a much stronger and more beautiful house than a prefab_
 
-and UI that is:
- - robust
- - correct
- - predictable
- - tested
-<!--
-### Experience
-Definitions:
-- "Confidence"
-    - _Because none of these factors are truly binary, I threw a 1-10 score of roughly how comfortable I would be in an environment with this tool, and how confident I am I would be able to train others less experienced, or learn from others more experienced._
-- "Familiar with"
-    - _I have researched this tool enough to have a high-level understanding of its semantics and best practices._
-- "Have Used"
-    - _I have used this tool to solve a problem of some difficulty, and have a somewhat lower-level understanding of it. This usually also means I can effectively communicate the pros and cons of the tool with other engineers & stakeholders._
-- "Could learn from another Engineer"
-    - _I do not have a 100% understanding of this tool, and in a position with other engineers (of any experience), I would have something to learn from them._
-- "Could teach another Engineer"
-    - _I would be effective in a mentor role with this tool with less experienced engineers, where they would be able to get up to speed and effective with the tool quickly._
-- "Could lead a team of Engineers unfamiliar with tool"
-    - _I would be effective in a lead developer role with this tool: working with team members to establish patterns and guidelines, spearheading a greenfield project with this tool, and effectively training new engineers._
+### Hobbies
+- [writing hot takes on Medium](https://orionkindel.medium.com)
+- blacksmithing
+- rock climbing _(indoor mostly)_
+- cars _(driving should be **fun**!)_
+- personal projects
+  - smart espresso machine
+  - artist portfolio for my accomplished painter partner
+- games _(mostly competitive, mostly smash)_
 
-|Tool|Confidence (1-10)|Familiar with|Have Used|Could learn from another Engineer|Could teach another Engineer|Could lead a team of Engineers unfamiliar with tool|
-|-|-|-|-|-|-|-|
-|Rust               | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Git                | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|C#                 | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|TypeScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|JavaScript         | 9 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Scrum              | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|TypeScript (FP)    | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|JavaScript (FP)    | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|SQL                | 8 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|MS Azure           | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|AWS                | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|Haskell            | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|PureScript         | 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|ReScript / ReasonML| 7 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|Python             | 6 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|NoSQL              | 6 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|Java               | 6 |:heavy_check_mark:|                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-|OCaml              | 6 |:heavy_check_mark:|                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-|Elm                | 6 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|                  |
-|F#                 | 5 |:heavy_check_mark:|                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-|Ruby               | 5 |:heavy_check_mark:|                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-|Scala              | 4 |:heavy_check_mark:|                  |:heavy_check_mark:|                  |                  |
--->
+## What I expect from you, and you can expect in return
+(Addressing co-workers and contributors)
+
+### Candor & Accountability
+Well-considered honesty is a gift, and accountability is an act of compassion. By holding each other accountable we can be active participants in each other's growth, and the growth of whatever project we have in common. Tell me when something isn't working, and I'll do the same.
+
+### Mutual challenge, learning, teaching
+There is a time and a place for a "go-to" or "de-facto" solution, but it's critically important that as engineers we are active in our community and stay up to pace with the changes that are happening in real-time. I am always learning, and expect you to challenge my understanding and teach me about your experience, and you can expect the same from me.
+
+As someone who goes a bit against the grain and lives on the bleeding edge of the engineering field, it's important to me to share what I'm passionate about with people who love to learn. This is how history is made, by changing 1 mind at a time.
 
 ## Projects I'm Working on
  - [`cliply`] - fully client-side video editor in the browser (big lift, contributors welcome!)
