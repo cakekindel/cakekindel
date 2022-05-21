@@ -1,6 +1,4 @@
 # Orion Kindel
-![unnamed](https://user-images.githubusercontent.com/12725400/122816304-67482300-d28b-11eb-997e-1e2ca66febae.gif)
-
 ## Who Am I?
 
 |[orionkindel.com](orionkindel.com)|[LinkedIn](linkedin.com/in/orion-kindel)|[GitHub](https://github.com/cakekindel)|[Medium](https://orionkindel.medium.com/)|
